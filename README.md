@@ -1,5 +1,5 @@
 # Student Management System
-
+# minor python project
 A command-line based Student Management System built using Python. This project allows users to manage student records with features like adding, viewing, searching, updating, deleting, ranking, and grading students. Data is stored permanently using a JSON file.
 
 ## Features
@@ -148,3 +148,4 @@ Demonstrates successful deletion of a student using unique ID.
 Displays safe program termination with a user-friendly exit message.
 
 ![Exit Message](screenshots/exit_message.png)
+
