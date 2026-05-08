@@ -25,21 +25,21 @@ A command-line based Student Management System built using Python. This project 
 ## Project Structure
 
 ## Structure
-pychi/
+Student-Management-System/
 │
-├── 01_basics/
-├── 02_control_flow/
-├── 03_data_structures/
-├── 04_functions/
-├── 05_oop/
+├── main.py
+├── operations.py
+├── file_handler.py
+├── students.json
+├── README.md
 │
-├── projects/
-│   ├── main.py
-│   ├── operations.py
-│   ├── file_handler.py
-│   ├── students.json
-│
-└── README.md
+└── screenshots/
+    ├── add_students.png
+    ├── delete_students.png
+    ├── exit_message.png
+    ├── student_table.png
+    ├── top_students.png
+    └── welcome.png
 
 ## How to Run the Project
 
