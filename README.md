@@ -21,8 +21,6 @@ A command-line based Student Management System built using Python. This project 
 
 * Python 3
 * JSON
-* VS Code
-* Git & GitHub
 
 ## Project Structure
 
