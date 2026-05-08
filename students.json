@@ -1,0 +1,26 @@
+[
+    {
+        "id": 2,
+        "name": "hiba",
+        "age": 22,
+        "marks": 87.0
+    },
+    {
+        "id": 3,
+        "name": "adiba",
+        "age": 22,
+        "marks": 88.0
+    },
+    {
+        "id": 4,
+        "name": "zeeshan",
+        "age": 15,
+        "marks": 78.0
+    },
+    {
+        "id": 5,
+        "name": "ayesha",
+        "age": 24,
+        "marks": 76.0
+    }
+]
