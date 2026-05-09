@@ -43,16 +43,22 @@ Student-Management-System/
 
 ## How to Run the Project
 
-### Step 1: Open terminal
+1. Clone the repository:
 
 ```bash
-cd pychi
+git clone https://github.com/Nayab-Fatima17/Student-Management-System.git
 ```
 
-### Step 2: Run the project
+2. Navigate to the project folder:
 
 ```bash
-python projects/main.py
+cd Student-Management-System
+```
+
+3. Run the project:
+
+```bash
+python main.py
 ```
 
 ## Sample Menu Output
