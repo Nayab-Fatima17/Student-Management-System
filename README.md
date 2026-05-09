@@ -97,14 +97,6 @@ This project helped in understanding:
 * CLI application structure
 * Git and GitHub workflow
 
-## Future Improvements
-
-* Search by name
-* CSV export support
-* Database integration using SQLite
-* GUI version using Tkinter
-* Colored terminal output
-
 ## Project Screenshots
 
 ### Welcome Screen
